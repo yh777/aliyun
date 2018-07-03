@@ -1,4 +1,4 @@
-#!/usr/local/python27/bin/python
+#!/usr/bin/env python
 # -- coding: utf-8 --
 """
 打印所有未使用的SLB

@@ -1,4 +1,4 @@
-#!/usr/local/python27/bin/python
+#!/usr/bin/env python
 # -- coding: utf-8 --
 """
 提供ECS ID,返回ECS IP等信息

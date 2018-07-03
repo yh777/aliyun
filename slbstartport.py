@@ -1,4 +1,4 @@
-#!/usr/local/python27/bin/python
+#!/usr/bin/env python
 # -- coding: utf-8 --
 """
 激活开放的SLB端口,一般由其它模块调用,不直接使用

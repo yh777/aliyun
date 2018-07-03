@@ -1,4 +1,4 @@
-#!/usr/local/python27/bin/python
+#!/usr/bin/env python
 # -- coding: utf-8 --
 """
 根据提供的SLB-IP和名称(如果不提供名称则根据后端服务器名称设置)设置SLB的名称,

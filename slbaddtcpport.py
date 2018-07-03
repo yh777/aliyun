@@ -1,4 +1,4 @@
-#!/usr/local/python27/bin/python
+#!/usr/bin/env python
 # -- coding: utf-8 --
 """
 添加SLB端口(在保留原有端口的基础上添加,如果端口已经存在则跳过

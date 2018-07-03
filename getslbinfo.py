@@ -1,4 +1,4 @@
-#!/usr/local/python27/bin/python
+#!/usr/bin/env python
 # -- coding: utf-8 --
 """
 以SLB  IP为参数返回该SLB的开放端口,后端服务器IP和名称
